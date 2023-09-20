@@ -7,7 +7,7 @@ users = {
 }
 
 # Chave da API do ChatGPT 
-chatgpt_api_key = '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'
+chatgpt_api_key = ''
 
 def login():
     while True:
